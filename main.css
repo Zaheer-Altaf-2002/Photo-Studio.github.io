@@ -121,6 +121,7 @@ nav {
 /* only on phone */
 .nav_toggle-btn {
 	display: none;
+	margin-right: 1rem;
 }
 
 .nav_logo {
