@@ -39,7 +39,7 @@ var swiper = new Swiper(".mySwiper", {
 
 
 
-const nav = document.querySelector('.nav_limks');
+const nav = document.querySelector('.nav_links');
 const openNavBtn = document.querySelector('#nav_toggle-open');
 const closeNavBtn = document.querySelector('#nav_toggle-close');
 
